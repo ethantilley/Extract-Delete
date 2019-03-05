@@ -18,6 +18,6 @@ Little program that extracts all zipped files and deletes them
 To use the program, move or make the  made file and simple run. (Plan to add .exe (executable) file at a later date)
 
 ## Goals With This Program
-- [] Support .7z files
-- [] Support .rar files
-- [] Add a .exe (executable) file
+- [ ] Support .7z files
+- [ ] Support .rar files
+- [ ] Add a .exe (executable) file
