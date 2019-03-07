@@ -15,7 +15,7 @@ Little program that extracts all zipped files and deletes them
 
 ## Use
 
-To use the program, move or make the  made file and simple run. (Plan to add .exe (executable) file at a later date)
+To use the program, move the AutoExtract.py file to where ever you have .zip files and simply run. (Plan to add a .exe (executable) file at a later date)
 
 ## Why
 
